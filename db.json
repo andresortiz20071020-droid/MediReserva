@@ -1,0 +1,48 @@
+{
+  "appointments": [
+    {
+      "id": "1",
+      "patient": "Camila Rodríguez",
+      "specialty": "Medicina general",
+      "doctor": "Dra. Laura Méndez",
+      "date": "2026-10-10",
+      "time": "09:00",
+      "status": "Pendiente"
+    },
+    {
+      "id": "2",
+      "patient": "Juan Pérez",
+      "specialty": "Odontología",
+      "doctor": "Dr. Felipe Torres",
+      "date": "2026-10-12",
+      "time": "11:30",
+      "status": "Cancelada"
+    },
+    {
+      "id": "3",
+      "patient": "Mariana Gómez",
+      "specialty": "Fisioterapia",
+      "doctor": "Dra. Paula Ríos",
+      "date": "2026-10-14",
+      "time": "15:00",
+      "status": "Pendiente"
+    },
+    {
+      "patient": "Usuario Demo",
+      "specialty": "Fisioterapia",
+      "doctor": "Dra. Paula Ríos",
+      "date": "2026-11-05",
+      "time": "10:00",
+      "status": "Pendiente",
+      "id": "f0D6Zie"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "demo@medireserva.com",
+      "password": "demo123",
+      "name": "Usuario Demo"
+    }
+  ]
+}
